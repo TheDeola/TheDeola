@@ -19,6 +19,16 @@ I have learnt:
 Currently learning:
 - JavaScript, 
   reactjs
+  
+__________________
+
+Recent Projects
+
+- https://zuora.netlify.app/
+- https://shmade.netlify.app/
+- https://finnest.netlify.app/
+- https://sbuikitpro.netlify.app/
+
 <!---
 TheDeola/TheDeola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
