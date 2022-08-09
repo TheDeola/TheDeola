@@ -1,4 +1,4 @@
-# Hello there; welcome 👋🏾
+# Hello! Bienvenue 👋🏾
 
 <img width="892" alt="Screenshot 2022-06-13 at 03 45 47" src="https://user-images.githubusercontent.com/100444959/173268833-1347d31b-b648-4024-9fa3-1ac619e2c8e5.png">
 
