@@ -16,7 +16,15 @@ I'm a Software Engineer, Content Creator, and Communications Executive who curre
 - 📫 You can [view my resume](#) and contact me by emailing aadetunji012@gmail.com.
 
 ---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
+---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDeola&show_icons=true&include_all_commits=true&hide_border=true" alt="Deola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeola&langs_count=8&layout=compact&hide_border=true" alt="Deola's GitHub stats" /> |
 | ------------- | ------------- |
 
