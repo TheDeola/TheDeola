@@ -28,6 +28,8 @@ I'm a Software Engineer, Technical Writer, and Communications Executive who curr
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDeola&show_icons=true&include_all_commits=true&hide_border=true" alt="Deola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeola&langs_count=8&layout=compact&hide_border=true" alt="Deola's GitHub stats" /> |
 | ------------- | ------------- |
 
+<img src="https://gpvc.arturio.dev/TheDeola" alt="profile views">
+
 <!---
 TheDeola/TheDeola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
